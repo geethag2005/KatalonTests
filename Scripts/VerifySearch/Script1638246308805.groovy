@@ -25,11 +25,11 @@ WebUI.setText(findTestObject('Object Repository/Page_Google/input__q'), 'katalon
 
 WebUI.click(findTestObject('Object Repository/Page_Google/b_torial'))
 
-//WebUI.closeBrowser()
+WebUI.closeBrowser()
 
 //WebUI.click(findTestObject('Object Repository/Page_katalon tutorial - Google Search/h3_Katalon Studio Tutorial  Katalon Guide t_78eb74'))
 //
 //WebUI.verifyElementText(findTestObject('Object Repository/Page_Katalon Studio Tutorial  Katalon Guide_579756/h1_Katalon Studio Tutorial'), 
 //    'Katalon Studio Tutorial')
 //
-WebUI.closeBrowser()
+//WebUI.closeBrowser()
